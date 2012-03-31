@@ -1,0 +1,9 @@
+
+*.suo
+/Bin
+/Libraries/Mailslot/bin
+/Libraries/Mailslot/obj
+/Applications/Test Server/bin
+/Applications/Test Server/obj
+/Applications/Test Client/bin
+/Applications/Test Client/obj
